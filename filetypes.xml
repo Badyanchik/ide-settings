@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="edge" type="EJS" />
+      <removed_mapping ext="edge" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".edge" approved="true" type="EJS" />
+    </extensionMap>
+  </component>
+</application>
