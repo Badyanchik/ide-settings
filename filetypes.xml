@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="edge" type="EJS" />
+      <mapping pattern="test.php" type="PLAIN_TEXT" />
       <removed_mapping ext="edge" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".edge" approved="true" type="EJS" />
     </extensionMap>
