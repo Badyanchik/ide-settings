@@ -6,16 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="bohdanPerkhalyukWetelo" />
         </UrlAndUserName>
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <UrlAndUserName>
+          <option name="url" value="http://tfs.dev.qsupport.ru" />
+          <option name="userName" value="BondarukS@qmobile.ru" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
