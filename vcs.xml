@@ -10,6 +10,10 @@
           <option name="url" value="http://tfs.dev.qsupport.ru" />
           <option name="userName" value="BondarukS@qmobile.ru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="Badyanchik" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
