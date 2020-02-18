@@ -362,6 +362,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582030013962" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
