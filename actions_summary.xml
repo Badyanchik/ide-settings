@@ -5,8 +5,8 @@
         <entry key="$Copy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581206347149" />
-              <option name="times" value="1" />
+              <option name="last" value="1582030738359" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -21,8 +21,8 @@
         <entry key="$Paste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581206348100" />
-              <option name="times" value="1" />
+              <option name="last" value="1582030739672" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582029975225" />
-              <option name="times" value="504" />
+              <option name="last" value="1582030742528" />
+              <option name="times" value="505" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,16 +189,16 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581633162284" />
-              <option name="times" value="874" />
+              <option name="last" value="1582030741362" />
+              <option name="times" value="875" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorRightWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581633155846" />
-              <option name="times" value="124" />
+              <option name="last" value="1582030742349" />
+              <option name="times" value="136" />
             </ActionSummary>
           </value>
         </entry>
