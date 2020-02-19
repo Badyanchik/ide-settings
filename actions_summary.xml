@@ -301,8 +301,8 @@
         <entry key="NewWebStormDirectoryProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582144146071" />
-              <option name="times" value="1" />
+              <option name="last" value="1582144245234" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -383,6 +383,14 @@
             <ActionSummary>
               <option name="last" value="1581206673132" />
               <option name="times" value="23" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ShowSettings">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582144525340" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
