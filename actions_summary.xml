@@ -69,8 +69,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582057413674" />
-              <option name="times" value="762" />
+              <option name="last" value="1582147408480" />
+              <option name="times" value="764" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582053663691" />
-              <option name="times" value="312" />
+              <option name="last" value="1582147409937" />
+              <option name="times" value="314" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582057403854" />
-              <option name="times" value="142" />
+              <option name="last" value="1582147410164" />
+              <option name="times" value="143" />
             </ActionSummary>
           </value>
         </entry>
@@ -258,6 +258,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ExpandRegion">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582147375474" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Find">
           <value>
             <ActionSummary>
@@ -287,6 +295,22 @@
             <ActionSummary>
               <option name="last" value="1582035199515" />
               <option name="times" value="20" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NewDir">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582147430312" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NewElementSamePlace">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582147427972" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
